@@ -1,3 +1,3 @@
 [bymayfe](https://bymayfe.vercel.app)
-
-NEXTJS => TAILWIND
+PORTFOLIO
+NEXTJS + TAILWIND CSS + CSS
